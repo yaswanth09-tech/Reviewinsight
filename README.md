@@ -150,3 +150,9 @@ Rank   Word                 Frequency    Visual
 End of Report
 ================================================================================
 ```
+   The script generates a detailed analysis report including:
+   - Dataset overview with review counts
+   - Text statistics (avg length, word counts)
+   - Rating distribution with visual bars
+   - Top 20 most common words with frequency
+   - Automated business insights
